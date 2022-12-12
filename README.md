@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Daniela-Costa-Ada/0b4b2d64dec1cfd8e8dcc4455d52b7c5/raw/38475117ac7cfee7af2d735c1944a3f430328508/card01.svg"/>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Dani Costa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniela-costa-ada&color=yellow" alt="Profile views" /> </p>
 
