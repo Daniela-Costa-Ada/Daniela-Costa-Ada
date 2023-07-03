@@ -25,7 +25,6 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-costa-ada&layout=compact&theme=vision-friendly-dark" alt="Daniela Costa most languages"/>
 </p>
--->
 
 <br><br>
 
