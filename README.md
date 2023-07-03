@@ -4,7 +4,7 @@
 
 - 🔥 Software Developer Drupal - Php
 
-- 💬 Ask me about **Drupal, Php, Laravel, JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **Php, Laravel, React, Drupal, JavaScript, HTML, CSS, SQL**
 
 <br><br>
 
