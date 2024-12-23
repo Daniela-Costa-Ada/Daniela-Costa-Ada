@@ -2,7 +2,7 @@
 <h1 align="left">Eu sou a Dani Costa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniela-costa-ada&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Software Developer Drupal - Php
+- Software Developer Drupal - Php
 
 - 💬 Ask me about **Php, Laravel, React, Drupal, JavaScript, HTML, CSS, SQL**
 
